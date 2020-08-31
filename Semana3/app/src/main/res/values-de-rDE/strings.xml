@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">prueba4</string>
+    <string name="label_bienvenido">Willkommen bei</string>
+    <string name="label_entrar">Betreten</string>
+</resources>
